@@ -1,3 +1,5 @@
+> json-server --watch db.json
+
 # kawneer-practice-fake-data
 
 https://my-json-server.typicode.com/
