@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "customers": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products"[
+    {
+      "id": 1234,
+      "name": "Big ol' Barn Door"
+    }
+  ]
 }
